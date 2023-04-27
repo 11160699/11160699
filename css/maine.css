@@ -1,0 +1,24 @@
+/* CSS Document */
+{
+*{margin:0px;padding: 0px;border: 0px;}}
+body{background-color:grey;}
+h1 {background-color:black;color:white;text-align: center;text-transform: uppercase;font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+
+a{display:block;color:black;float:left;font-family: times new Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";text-decoration: none;padding: 5px;}
+
+a:hover {color:goldenrod;}
+ul li{display: inline;margin-left: 10px;}
+ul li{font-size:24px;}
+a{text-decoration: none;}
+ 
+img={float: left;}
+
+h2{font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+
+font-size:24px;
+font-weight:bold;
+font-style:normal;
+color:white;
+background-color:black;text-align: center;
+}
+p{font-size:25px;, font:bold;}
