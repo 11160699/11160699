@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>video</title>
+  <link rel="stylesheet"href="css/maine.css">
+</head>
+  <h1>video</h1>
+  	
+	<a href="feet.html">feet</a>
+	<a href="arms.html">arms</a>
+	<a href="index.html">Home</a>
+	<a href="video.html">video</a>
+	<a href="head.html">head</a>
+	<a href="clothing.html">clothing</a>
+  
+<img src ="images/download.png">
+<body>
+</body>
+</html>
